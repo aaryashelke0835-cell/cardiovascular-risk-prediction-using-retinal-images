@@ -217,11 +217,6 @@ The system predicts the heart attack risk level based on the input retinal image
 *   **Regulatory & Clinical Validation:** Conduct rigorous trials for clinical adoption.
 *   **Ecosystem Integration:** Develop standardized APIs for seamless EHR integration.
 
-## Author
-
-*   **PRASHANTHA K T** (*************)
-    *   B.Tech, Artificial Intelligence and Machine Learning (AIML)
-    *   University Visvesvaraya College of Engineering (UVCE), Bangalore University
 
 ## License
 
