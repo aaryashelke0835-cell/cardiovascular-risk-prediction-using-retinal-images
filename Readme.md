@@ -223,6 +223,3 @@ The system predicts the heart attack risk level based on the input retinal image
 <!-- Specify the license for your project. Example: MIT License -->
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (if applicable).
 <!-- Or, if it's purely academic and not licensed: -->
-This project was developed for academic purposes at University Visvesvaraya College of Engineering. Please contact the author for permissions regarding usage or distribution.
-
----
