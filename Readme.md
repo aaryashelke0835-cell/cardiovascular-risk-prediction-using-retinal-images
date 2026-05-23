@@ -17,11 +17,6 @@
 12. [Applications](#applications)
 13. [Limitations](#limitations)
 14. [Future Scope](#future-scope)
-15. [Author](#author)
-16. [Supervisor](#supervisor)
-17. [Acknowledgements](#acknowledgements)
-18. [License](#license)
-
 ---
 
 ## Project Overview
